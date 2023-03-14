@@ -1,0 +1,8 @@
+this is first line using command.
+this 2nd line 
+this 3rd line
+nano methode is best to write 
+this is 4th line using echo method
+this is 5th line using echo method
+written by direct in file
+written again by echo
