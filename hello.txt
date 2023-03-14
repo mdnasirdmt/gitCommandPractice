@@ -6,3 +6,5 @@ this is 4th line using echo method
 this is 5th line using echo method
 written by direct in file
 written again by echo
+new line added
+this is my 7th lines
